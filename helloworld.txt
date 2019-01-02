@@ -1,14 +1,15 @@
 class helloworld
 
 {
-   static void myMethod()
-{
+   static void welcomemyMethod()
+  void myMethod(){
+      System.out.println("hellowworld")
 
-
+}
 public static void main(String args[])
 
-           {   helloworld oj=new helloworld()
-               obj.myMethod();
+           {
+                myMethod();
            }
 }
 }
