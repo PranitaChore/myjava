@@ -7,8 +7,8 @@ class helloworld
 
 public static void main(String args[])
 
-           {
-                myMethod();
+           {   helloworld oj=new helloworld()
+               obj.myMethod();
            }
 }
 }
